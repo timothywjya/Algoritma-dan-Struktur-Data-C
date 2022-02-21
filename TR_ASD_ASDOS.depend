@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1585485889 source:c:\users\georgegege\documents\kattis\tr_asd_asdos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1585839152 source:c:\users\georgegege\documents\tr_asd_asdos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1585989962 source:c:\users\asus\desktop\tr_asd_asdos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1585990567 source:c:\users\georgegege\downloads\tr_asd_asdos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1586184326 source:g:\tr_asd_asdos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<assert.h>
+	<string.h>
+
+1586447334 source:g:\tr_asd_asdos\tr_asd_c_672018018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<assert.h>
+	<string.h>
+
